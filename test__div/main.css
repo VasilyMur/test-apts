@@ -1,0 +1,16 @@
+.main__div{
+    display: inline-block;
+    position: relative;
+    opacity: 1;
+    visibility: visible;
+    margin: 30% 50%;
+    transform: translate(-50% ,-50%);
+    width: 340px;
+    height: 460px;
+
+}
+.aptCard {
+    background-color:  rgba(70, 130, 180, 0.40);
+    font-size: 22px;
+    padding: 20px;
+}
